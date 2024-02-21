@@ -1,4 +1,25 @@
-# Bienvenidos
+# Welcome!
+
+## CalculatorApp
+
+This small project is about a calculator where 
+I put into practice the basics learned in the Java language.
+
+> #### What it is for
+>
+> - Addition
+> - Subtraction
+> - Multiplication
+> - Division
+>
+> #### What was used
+> - Java Conditions and If Statement
+> - Java Switch Statement
+> - Java Exceptions
+> - Functions
+
+
+# ¡Bienvenidos!
 
 ## CalculadoraApp
 
@@ -15,13 +36,5 @@ pongo en practica lo básico aprendido en el lenguaje Java.
 > #### Se utilizó
 > - Sentencia de control If else
 > - Sentencia de control Switch
-> - Try/Catch
+> - Excepciones Try/Catch
 > - Funciones
-
-
-
-
-
-
-
-
